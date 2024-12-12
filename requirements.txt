@@ -1,0 +1,9 @@
+numpy
+pandas
+pyarrow
+mediapipe
+matplotlib
+scikit-image
+tensorflow
+tqdm
+jax
